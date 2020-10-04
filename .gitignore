@@ -1,0 +1,12 @@
+/.vs/Enviame/v16/.suo
+**/bin/
+**/obj/
+**/packages/
+*.project
+*.orig
+*.suo
+*.user
+*.csproj.user
+*.ide
+**/.vs
+*.nupkg
